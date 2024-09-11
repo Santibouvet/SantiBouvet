@@ -28,9 +28,35 @@ Informacion personal
 ⚽ I practice indoor indoor football competitively.\
 ✍️ &nbsp;In my free time, I like reading and working on my personal growth.\
 ✉️ &nbsp;You can shoot me an email at santinobouvet@gmail.com! I'll try to respond as soon as I can
-
 </div>
+
 <br />
+<br />
+
+
+<p align="center">
+
+ **Languages**:
+    
+![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85.svg?style=for-the-badge&logo=Haskell&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-D30001.svg?style=for-the-badge&logo=&logoColor=white)
+![Wollok](https://img.shields.io/badge/Wollok-CC342D.svg?style=for-the-badge&logo=&logoColor=white)
+<br>   
+    
+ **Front-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+</p>
+
+
+
 <br />
 <h3 align="center">Connect with me:</h3>
 <p align="center">
