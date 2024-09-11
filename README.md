@@ -1,7 +1,6 @@
 ## Hi there 👋
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Santino+Bouvet;Ingenieria+en+sistemas)](https://git.io/typing-svg)
-</div>
+<h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Santino+Bouvet;Ingenieria+en+sistemas)](https://git.io/typing-svg)
+</h1>
 
 
 
