@@ -24,8 +24,7 @@ Informacion personal
  &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Information Technology Engineering at the University of Buenos Aires.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+🎓 &nbsp;I'm currently studying Information Technology Engineering at the University of Buenos Aires (3rd year).\
 ⚽ I practice indoor indoor football competitively.\
 ✍️ &nbsp;In my free time, I like reading and working on my personal growth.\
 ✉️ &nbsp;You can shoot me an email at santinobouvet@gmail.com! I'll try to respond as soon as I can
