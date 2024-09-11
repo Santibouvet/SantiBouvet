@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Santino-BouvetFirst+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Santino+Bouvet;Ingenieria+en+sistemas)](https://git.io/typing-svg)
 
 
 
