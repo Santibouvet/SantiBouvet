@@ -25,7 +25,7 @@ Informacion personal
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Information Technology Engineering at the University of Buenos Aires (3rd year).\
-⚽ I practice indoor football competitively.\
+⚽ I practice futsal competitively.\
 ✍️ &nbsp;In my free time, I like reading and working on my personal growth.\
 ✉️ &nbsp;You can shoot me an email at santinobouvet@gmail.com! I'll try to respond as soon as I can
 </div>
