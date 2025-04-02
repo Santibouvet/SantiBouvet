@@ -42,6 +42,7 @@ Informacion personal
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85.svg?style=for-the-badge&logo=Haskell&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-D30001.svg?style=for-the-badge&logo=&logoColor=white)
 ![Wollok](https://img.shields.io/badge/Wollok-CC342D.svg?style=for-the-badge&logo=&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 <br>   
     
  **Front-End Development**:
