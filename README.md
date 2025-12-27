@@ -4,7 +4,7 @@
 	<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=b&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering;">
 </h1>
 
-![GitHub Snake](https://raw.githubusercontent.com/Santibouvet/Santibouvet/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/SantiBouvet/SantiBouvet/output/github-contribution-grid-snake.svg)
 
 <br>
 <br/>
