@@ -1,49 +1,30 @@
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=Santibouvet&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
-
 <h1 align="center"><b>Hi , I'm Santino Bouvet </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--
-titulo "nombre y apellido" ; "ingenieria en sistemas"
--->
-
 
 <h1 align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=b&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering;">
 </h1>
-<br />
-<br />
 
-
-
-<!--
-Informacion personal
--->
-
-<div align="left">
- &nbsp;About Me
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+</div>
+<br>
+<br/>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Information Technology Engineering at the University of Buenos Aires (4th year).\
-⚽ I practice futsal competitively.\
+⚽ &nbsp;I practice futsal competitively.\
 ✍️ &nbsp;In my free time, I like reading and working on my personal growth.\
-✉️ &nbsp;You can shoot me an email at santinobouvet@gmail.com! I'll try to respond as soon as posible.
+✉️ &nbsp;You can send me an email at santinobouvet@gmail.com! I'll try to respond as soon as posible.
 </div>
 
-<br />
+
 
 
 <p align="center">
 
- **Languages**:
-    
-![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85.svg?style=for-the-badge&logo=Haskell&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-D30001.svg?style=for-the-badge&logo=&logoColor=white)
-![Wollok](https://img.shields.io/badge/Wollok-CC342D.svg?style=for-the-badge&logo=&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
- ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+ ## 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,react,angular,tailwind,nodejs,python,mysql,javascript,c,cpp,mongodb,postman,docker,git,github,linux,bash,haskell,figma)](https://skillicons.dev)
+
 
 
 <div align="center">
