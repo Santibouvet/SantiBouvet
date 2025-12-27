@@ -10,6 +10,7 @@
 <br>
 <br/>
 
+## 🚀 About Me
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Information Technology Engineering at the University of Buenos Aires (4th year).\
 ⚽ &nbsp;I practice futsal competitively.\
