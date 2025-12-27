@@ -4,9 +4,8 @@
 	<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=b&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering;">
 </h1>
 
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
-</div>
+![GitHub Snake](https://raw.githubusercontent.com/Santibouvet/Santibouvet/output/github-contribution-grid-snake.svg)
+
 <br>
 <br/>
 
